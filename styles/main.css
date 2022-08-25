@@ -1,0 +1,13 @@
+body {
+  background: rgba(214, 214, 27, 0.626);
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.homepage-paragraph {
+  text-align: center;
+  max-width: 800px;
+}
